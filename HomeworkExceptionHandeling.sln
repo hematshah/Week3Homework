@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeworkExceptionHandeling", "HomeworkExceptionHandeling\HomeworkExceptionHandeling.csproj", "{CA561DB4-7194-4075-A3A2-2B2A08BCF4D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA561DB4-7194-4075-A3A2-2B2A08BCF4D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA561DB4-7194-4075-A3A2-2B2A08BCF4D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA561DB4-7194-4075-A3A2-2B2A08BCF4D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA561DB4-7194-4075-A3A2-2B2A08BCF4D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {637436DD-C4CE-404B-8452-12E28D41EE37}
+	EndGlobalSection
+EndGlobal

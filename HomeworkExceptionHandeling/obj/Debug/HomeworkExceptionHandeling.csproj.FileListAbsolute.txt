@@ -1,0 +1,6 @@
+C:\Users\Hemat Shah\Engineering45\week3\Day1\HomeworkExceptionHandeling\HomeworkExceptionHandeling\bin\Debug\HomeworkExceptionHandeling.exe.config
+C:\Users\Hemat Shah\Engineering45\week3\Day1\HomeworkExceptionHandeling\HomeworkExceptionHandeling\bin\Debug\HomeworkExceptionHandeling.exe
+C:\Users\Hemat Shah\Engineering45\week3\Day1\HomeworkExceptionHandeling\HomeworkExceptionHandeling\bin\Debug\HomeworkExceptionHandeling.pdb
+C:\Users\Hemat Shah\Engineering45\week3\Day1\HomeworkExceptionHandeling\HomeworkExceptionHandeling\obj\Debug\HomeworkExceptionHandeling.csprojAssemblyReference.cache
+C:\Users\Hemat Shah\Engineering45\week3\Day1\HomeworkExceptionHandeling\HomeworkExceptionHandeling\obj\Debug\HomeworkExceptionHandeling.exe
+C:\Users\Hemat Shah\Engineering45\week3\Day1\HomeworkExceptionHandeling\HomeworkExceptionHandeling\obj\Debug\HomeworkExceptionHandeling.pdb
